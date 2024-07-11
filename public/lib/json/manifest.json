@@ -1,0 +1,15 @@
+{
+    "name": "KOOLyras V2",
+    "theme_color": "#454b7f",
+    "background_color": "#484948",
+    "description": "This is the KOOLyras! Enjoy from game of famulous bro THE KOOLER[YT]!",
+    "orientation": "landscape",
+    "start_url": "/",
+    "scope": "/",
+    "display": "fullscreen",
+    "icons": [{
+        "src": "newIcon.png",
+        "sizes": "96x96",
+        "type": "image/png"
+    }]
+}
