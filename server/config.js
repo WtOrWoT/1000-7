@@ -3,10 +3,10 @@ module.exports = {
 
     // Game server domain.
     // If 'localhost:NUMBER', the port must equal the port setting.
-    host: "koolyras.netlify.com",
+    host: "https://koolyras.onrender.com",
 
     // Which port to run the web server on.
-    port: 26301,
+    port: 3000,
 
     // How often to update the list of the entities that players can see.
     // Has effects of when entities are activated.
